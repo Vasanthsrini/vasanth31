@@ -1,0 +1,32 @@
+.nav-img {
+    height: 40px;
+    width: 50px;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+}
+
+.banner-head {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    color: white;
+}
+
+.nav-button {
+    text-align: center;
+    color: white;
+    background-color: #1a2137;
+    width: 114px;
+    height: 38px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.content-banner {
+    text-align: center;
+}
