@@ -1,0 +1,136 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/young-lady-use-cellphone-order-online-shopping-product-paying-bills-with-banking-app-with-transaction-successful-stay-house-quarantine-activity-fun-activity-coronavirus-prevention_7861-3270.jpg?w=1380&t=st=1687588587~exp=1687589187~hmac=9d60b35e408ba629b60ee04ef8eb809042c3ba761cd5cd9cccf6df484784e1ca");
+    background-size: cover;
+    height: 100vh;
+}
+.nav-bar{
+    font-size: 17px;
+    color: white;
+    font-weight: 500;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: rgb(244, 12, 12); 
+}
+a:active{
+    color:black;
+}
+a{
+    color: black; 
+}
+.img-logo{
+    height: 25px;
+    margin-right: 5%;
+    width: 80px;
+    margin-top: 15px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    color:black;
+}
+.description{
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+}
+.button{
+    font-size: 15px;
+    border-width: 0px;
+    height: 40px;
+    background-color: rgb(253, 169, 44);
+    color: white;
+    width: 125px;
+    font-weight: 500;
+}
+.bg-container2{
+    padding: 70px;
+    background-color: #fafafa;
+}
+.bg-container3{
+    background-color: white;
+    padding-top: 50px;
+
+    padding-left: 300px;
+    padding-right: 150px;
+
+}
+.tool-img{
+    height: 50px;
+    width:50px;
+}
+.para{
+    color:grey;
+}
+.img-2{
+    height: 450px;
+    background-size: cover;
+}
+.button-2{
+    font-size: 15px;
+    border-width: 0px;
+    height: 40px;
+    background-color: rgb(253, 169, 44);
+    color: white;
+    width: 190px;
+    font-weight: 500;
+}
+.bg-container-4{
+    background-color:#fafafa ;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:black;
+}
+.para-2{
+    color: gray;
+    font-size: 14px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.bg-container-5{
+    background-color:#fafafa ;
+
+}
+.logo{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 150px;
+    padding: 14px;
+}
+.para-3{
+    color: grey;
+    font-size: 13px;
+}
+.img-3{
+    height: 150px;
+}
+.bg-container-6{
+    background-color:#fafafa ;
+    padding: 70px;
+
+}
+.para-4{
+    color: grey;
+    font-size: 15px;
+}
+.text{
+    width: 350px;
+    border-radius: 6px;
+}
+.text-2{
+    height: 80px;
+    width: 350px;
+    border-radius: 6px;
+}
+.form{
+    width: 50%;
+}
+.bg-container-8{
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
